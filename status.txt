@@ -8,3 +8,5 @@ Untracked files:
 	status.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+On branch test
+nothing to commit, working tree clean
